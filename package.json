@@ -13,7 +13,7 @@
   "activationCommands": {
     "atom-workspace": "fold-navigator:open"
   },
-  "repository": "https://github.com/atom/fold-navigator",
+  "repository": "https://github.com/turigeza/fold-navigator",
   "license": "MIT",
   "engines": {
     "atom": ">=1.7.0"

@@ -28,4 +28,4 @@ It can keep your code folded at all times as you navigate through the code.
 It gives you the option to fold all code on file open.
 </p>
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![A screenshot of your package](https://drive.google.com/uc?export=view&id=0B7VdYIkRLxQWQWFjY1FjUElnRkk)
