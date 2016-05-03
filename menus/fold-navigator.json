@@ -1,0 +1,30 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Open Fold Navigator",
+            "command": "fold-navigator:open"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Fold Navigator",
+            "submenu": [{
+                "label": "Open",
+                "command": "fold-navigator:open"
+            }, {
+                "label": "Close",
+                "command": "fold-navigator:close"
+            }]
+        }]
+    }, {
+        "label": "View",
+        "submenu": [{
+            "label": "Show Fold Navigator",
+            "command": "fold-navigator:open"
+        }, {
+            "label": "Hide Fold Navigator",
+            "command": "fold-navigator:close"
+        }]
+    }]
+}

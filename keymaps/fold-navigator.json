@@ -1,0 +1,8 @@
+{
+  "atom-workspace":{
+    "ctrl-alt-cmd-left": "fold-navigator:open",
+    "ctrl-alt-cmd-right": "fold-navigator:close",
+    "ctrl-alt-cmd-up": "fold-navigator:moveUp",
+    "ctrl-alt-cmd-down": "fold-navigator:moveDown"
+    }
+}

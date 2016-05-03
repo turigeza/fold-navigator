@@ -1,0 +1,23 @@
+{
+  "name": "fold-navigator",
+  "main": "./lib/fold-navigator.js",
+  "version": "0.0.1",
+  "description": "It allows you to navigate code folding points within your editor.",
+  "keywords": [
+    "fold",
+    "navigator",
+    "code",
+    "folding",
+    "navigation"
+  ],
+  "activationCommands": {
+    "atom-workspace": "fold-navigator:open"
+  },
+  "repository": "https://github.com/atom/fold-navigator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.7.0"
+  },
+  "dependencies": {
+  }
+}

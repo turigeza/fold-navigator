@@ -1,0 +1,67 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.fold-navigator {
+    background-color: @tree-view-background-color;
+    overflow: scroll;
+    font-size: 12px;
+}
+
+.fold-navigator-item{
+    cursor: default;
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+
+.fold-navigator-indentation{
+    min-width: 10px;
+    display: inline-block;
+}
+.fold-navigator-line-number{
+    width:40px;
+    background-color: @inset-panel-background-color;
+    color:@text-color-subtle;
+    text-align: right;
+    display: block;
+    float:left;
+    padding: 0px 5px 0px 3px;
+}
+
+.fold-navigator-item-indent-0{
+    color:@text-color-info;
+}
+.fold-navigator-item-indent-1{
+    color:@text-color-error;
+}
+.fold-navigator-item-indent-2{
+    color:@text-color-warning;
+}
+.fold-navigator-item-indent-3{
+    color:@text-color-success;
+}
+.fold-navigator-item-indent-4{
+    color:@text-color-subtle;
+}
+.fold-navigator-item-indent-5{
+}
+.fold-navigator-item-selected{
+    background-color: @background-color-selected;
+    color:@text-color-selected;
+}
+.fold-navigator-gutter{
+    padding-left: 2px;
+    margin-right: 5px;
+    height:auto;
+    background-color: @inset-panel-background-color;
+}
+.fold-navigator-item-selected .fold-navigator-gutter{
+    background-color: @background-color-error;
+}
+.fold-navigator-item:hover{
+    color:@text-color-highlight;
+    background-color: @background-color-highlight;
+}
