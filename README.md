@@ -4,7 +4,7 @@
 Fold navigator helps you navigate through your code folding points in Atom.
 </p>
 <p>
-Note: This package is in its infancy. There might still be bugs. No test were written for it yet.
+Note: This package is in its infancy. I am only using it on a Mac. There might still be bugs. No test were written for it yet.
 </p>
 <p>
 I was missing Netbeans code navigator so much I had to come up with something which helps me navigate through my code in Atom.
