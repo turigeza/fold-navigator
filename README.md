@@ -10,7 +10,7 @@ Note: This package is in its infancy. I am only using it on a Mac. There might s
 I was missing Netbeans code navigator so much I had to come up with something which helps me navigate through my code in Atom.
 </p>
 <p>
-Try it and see. Fell free to suggest and let me know if you have any issues/bugs.
+Try it and see. Feel free to suggest and let me know if you have any issues/bugs.
 </p>
 <p>
 All shortcuts start with: ctrl-alt-cmd.
