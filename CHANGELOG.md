@@ -1,3 +1,5 @@
+## 0.0.512 - Quick fix for added trim() 
+## 0.0.511 - Minimum line lenght added
 ## 0.0.51 - Option key added
 * messed up with apm publish that is why the jump n versions
 * added minimum line length hopefully makes things a bit more meaningful on comments which start like /** which was useless as it was

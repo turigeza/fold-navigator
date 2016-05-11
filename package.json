@@ -2,13 +2,15 @@
   "name": "fold-navigator",
   "main": "./lib/fold-navigator.js",
   "version": "0.0.511",
-  "description": "It allows you to navigate code folding points within your editor.",
+  "description": "It helps you navigate your code folding points within Atom. It takes the lines where the folding points are and lists them with their indentation to give you an overview of your code. It serves a similar purpose to the minimap package but with a different approach.",
   "keywords": [
     "fold",
     "navigator",
     "code",
     "folding",
-    "navigation"
+    "navigation",
+    "map",
+    "summary"
   ],
   "activationCommands": {
     "atom-workspace": "fold-navigator:open"

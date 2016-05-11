@@ -1,7 +1,7 @@
 # fold-navigator package
 
 <p>
-Fold navigator helps you navigate through your code folding points in Atom.
+It helps you navigate your code folding points within Atom. It takes the lines where the folding points are and lists them with their indentation to give you an overview of your code. It serves a similar purpose to the minimap package but with a different approach.
 </p>
 <p>
 Note: This package is in its infancy. I am only using it on a Mac. There might still be bugs. No test were written for it yet.
@@ -13,7 +13,7 @@ I was missing Netbeans code navigator so much I had to come up with something wh
 Try it and see. Feel free to suggest and let me know if you have any issues/bugs.
 </p>
 <p>
-All shortcuts start with: ctrl-alt-cmd.
+All shortcuts start with: ctrl-alt-cmd. Unfortunately I have since discovered that Skype on a Mac uses some of these shortcuts globally so if you find your shortcuts don't work it's most likely because of this.
 </p>
 <p>
 ctrl-alt-cmd-left: Opens the fold navigator panel.<br>
