@@ -29,22 +29,6 @@ A list of commands available to you to navigate within the folds.
 5. nextFoldAtCurrentLevel (no shortcut)
 6. previousFoldAtCurrentLevel (no shortcut)
 
-this.subscriptions.add(atom.commands.add('atom-workspace', {
-'fold-navigator:nextFold': () => this.nextFold()
-}));
-this.subscriptions.add(atom.commands.add('atom-workspace', {
-'fold-navigator:moveLevelUp': () => this.moveLevelUp()
-}));
-this.subscriptions.add(atom.commands.add('atom-workspace', {
-'fold-navigator:moveLevelDown': () => this.moveLevelDown()
-}));
-this.subscriptions.add(atom.commands.add('atom-workspace', {
-'fold-navigator:nextFoldAtCurrentLevel': () => this.nextFoldAtCurrentLevel()
-}));
-this.subscriptions.add(atom.commands.add('atom-workspace', {
-'fold-navigator:previousFoldAtCurrentLevel': () => this.previousFoldAtCurrentLevel()
-}));
-
 ### 5. Keep your code folded at all time.
 If you are into that kind of thing. Since I can see my fold points in the navigator panel for me actually now easier not to fold my code at all. But it's there if you prefer it that way.
 
