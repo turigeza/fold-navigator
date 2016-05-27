@@ -3,12 +3,14 @@
 * added moveUp and moveDown level
 * added previousFoldOnSameLevel. nextFoldOnSameLevel
 * added the option of moving the navigator panel together with the editor window if out of range
-* added open all child folds command
 * sorted the bug where if there was no fold in document it would throw error
 * added unfoldAllSubfolds which I was missing
 * changed font on line numbers to monospace
 * added toggle folds at level 1 2 3 4 5
-* added autocomplete search box
+* added toggle folds at current row
+* added autocomplete search box for fold lines
+* added the limit to fold levels
+* added grammar based options so you can now have different options per document grammar only one grammar per document just for now
 ## 0.0.512 - Quick fix for added trim()
 ## 0.0.511 - Minimum line length added
 ## 0.0.51 - Option key added

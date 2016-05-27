@@ -1,24 +1,27 @@
 {
-  "name": "fold-navigator",
-  "main": "./lib/fold-navigator.js",
-  "version": "0.0.512",
-  "description": "It helps you navigate your code folding points within Atom. It takes the lines where the folding points are and lists them with their indentation to give you an overview of your code. It serves a similar purpose to the minimap package but with a different approach.",
-  "keywords": [
-    "fold",
-    "navigator",
-    "code",
-    "folding",
-    "navigation",
-    "map",
-    "summary"
-  ],
-  "activationCommands": {
-    "atom-workspace": "fold-navigator:open"
-  },
-  "repository": "https://github.com/turigeza/fold-navigator",
-  "license": "MIT",
-  "engines": {
-    "atom": ">=1.7.0"
-  },
-  "dependencies": {}
+    "name": "fold-navigator",
+    "main": "./lib/fold-navigator.js",
+    "version": "0.0.512",
+    "description": "A preview of your source code through code folding points. ",
+    "keywords": [
+        "fold",
+        "navigator",
+        "code",
+        "folding",
+        "navigation",
+        "map",
+        "summary"
+    ],
+    "activationCommands": {
+        "atom-workspace": "fold-navigator:open"
+    },
+    "repository": "https://github.com/turigeza/fold-navigator",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.7.0"
+    },
+    "dependencies": {
+        "fuzzaldrin": "^2.1.0",
+        "fuzzaldrin-plus": "^0.1.0"
+    }
 }
