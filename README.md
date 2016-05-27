@@ -25,11 +25,11 @@ This is a screen shot where max indentation is set to 1. This (and all settings 
 A list of commands available to you to navigate within the folds.
 
 1. previousFold (ctrl-alt-cmd-up)
-2. nextFold (ctrl-alt-cmd-up)
+2. nextFold (ctrl-alt-cmd-down)
 3. moveLevelUp (ctrl-alt-cmd-left)
 4. moveLevelDown (ctrl-alt-cmd-right)
-5. nextFoldAtCurrentLevel (no shortcut)
-6. previousFoldAtCurrentLevel (no shortcut)
+5. nextFoldAtCurrentLevel
+6. previousFoldAtCurrentLevel
 
 ### 5. Keep your code folded at all time.
 If you are into that kind of thing. Since I can see my fold points in the navigator panel for me actually now easier not to fold my code at all. But it's there within fold navigator settings if you prefer it that way.
@@ -50,7 +50,7 @@ You will find most of what you need here
 ### Notes:
 
 1. It only works if your code is indented and well formatted. I use [https://atom.io/packages/atom-beautify](https://atom.io/packages/atom-beautify) to achieve this.
-2. You must open the fold navigator panel once after you have started Atom. This is because fold navigator does not start/activate when Atom starts. ctrl-alt-cmd-[
+2. You must open the fold navigator panel at least once after you have started Atom to be able to use this package. This is because fold navigator does not start/activate when Atom starts. Use ctrl-alt-cmd-[ to open the fold navigator panel.
 3. Skype on a Mac uses one of the shortcuts (ctrl-alt-cmd-up) globally. So if you find your shortcuts don't work it's most likely because of Skype. If you find a way around this please let me know.
 
 Try it and see. Feel free to suggest and let me know if you have any issues/bugs.
