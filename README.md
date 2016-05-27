@@ -52,6 +52,7 @@ You will find most of what you need here
 1. It only works if your code is indented and well formatted. I use [https://atom.io/packages/atom-beautify](https://atom.io/packages/atom-beautify) to achieve this.
 2. You must open the fold navigator panel at least once after you have started Atom to be able to use this package. This is because fold navigator does not start/activate when Atom starts. Use ctrl-alt-cmd-[ to open the fold navigator panel.
 3. Skype on a Mac uses one of the shortcuts (ctrl-alt-cmd-up) globally. So if you find your shortcuts don't work it's most likely because of Skype. If you find a way around this please let me know.
+4. Windows (and Linux) user I am sorry ... you will have to assign shortcuts to the commands yourself. The ones I have chosen seem to be unusable on Windows. I have not tried on Linux but it possibly is the same.
 
 Try it and see. Feel free to suggest and let me know if you have any issues/bugs.
 
