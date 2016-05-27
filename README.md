@@ -13,11 +13,9 @@ Things it can do.
 ![A screenshot of your package](https://raw.githubusercontent.com/turigeza/fold-navigator/master/resources/fold_search.png)
 
 ### 3. You can limit the depth it will lists.
-You might not care what is at indentation level 5. You could use this if you only wanted to see let's say a list of methods in a class.
-This is a screen shot where max indentation is set to 1.
+You could use this if you only wanted to see let's say a list of methods in a class. In which case you might not care what is at indentation level 5.
+This is a screen shot where max indentation is set to 1. This (and all settings btw) can be grammar specific.
 ![A screenshot of your package](https://raw.githubusercontent.com/turigeza/fold-navigator/master/resources/limited_folds_search.png)
-
-And other less important things such as:
 
 ### 4. Move within folds.
 A list of commands available to you to navigate within the folds.
