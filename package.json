@@ -1,27 +1,27 @@
 {
-    "name": "fold-navigator",
-    "main": "./lib/fold-navigator.js",
-    "version": "0.0.512",
-    "description": "A preview of your source code through code folding points. ",
-    "keywords": [
-        "fold",
-        "navigator",
-        "code",
-        "folding",
-        "navigation",
-        "map",
-        "summary"
-    ],
-    "activationCommands": {
-        "atom-workspace": "fold-navigator:open"
-    },
-    "repository": "https://github.com/turigeza/fold-navigator",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.7.0"
-    },
-    "dependencies": {
-        "fuzzaldrin": "^2.1.0",
-        "fuzzaldrin-plus": "^0.1.0"
-    }
+  "name": "fold-navigator",
+  "main": "./lib/fold-navigator.js",
+  "version": "0.0.6",
+  "description": "A preview of your source code through code folding points. ",
+  "keywords": [
+    "fold",
+    "navigator",
+    "code",
+    "folding",
+    "navigation",
+    "map",
+    "summary"
+  ],
+  "activationCommands": {
+    "atom-workspace": "fold-navigator:open"
+  },
+  "repository": "https://github.com/turigeza/fold-navigator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.7.0"
+  },
+  "dependencies": {
+    "fuzzaldrin": "^2.1.0",
+    "fuzzaldrin-plus": "^0.1.0"
+  }
 }
