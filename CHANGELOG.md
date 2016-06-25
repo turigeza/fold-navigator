@@ -1,3 +1,5 @@
+## 0.0.615 - Added more commands and options
+* changed the menus around to toggle instead of open/close
 ## 0.0.6 - Added more commands and options
 * renamed moveUp and moveDown to previousFold and nextFold
 * added moveUp and moveDown level

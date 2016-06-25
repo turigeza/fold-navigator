@@ -1,6 +1,6 @@
 {
     "atom-workspace": {
-        "ctrl-alt-cmd-[": "fold-navigator:open",
+        "ctrl-alt-cmd-[": "fold-navigator:toggle",
         "ctrl-alt-cmd-]": "fold-navigator:close",
         "ctrl-alt-cmd-up": "fold-navigator:previousFold",
         "ctrl-alt-cmd-down": "fold-navigator:nextFold",
