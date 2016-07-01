@@ -1,3 +1,4 @@
+## 0.0.618 - Bug with scrollIntoView solved (hopefully)
 ## 0.0.615 - Added more commands and options
 * changed the menus around to toggle instead of open/close
 ## 0.0.6 - Added more commands and options
