@@ -1,3 +1,4 @@
+## 0.0.619 - Issue number 12 solved by adding option to use previous line
 ## 0.0.618 - Bug with scrollIntoView solved (hopefully)
 ## 0.0.615 - Added more commands and options
 * changed the menus around to toggle instead of open/close
