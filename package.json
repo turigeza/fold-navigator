@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "fuzzaldrin": "^2.1.0",
-    "fuzzaldrin-plus": "^0.1.0"
+    "fuzzaldrin-plus": "^0.1.0",
+    "lodash": "^4.17.5"
   }
 }
