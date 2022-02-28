@@ -15,7 +15,7 @@
   "activationCommands": {
     "atom-workspace": "fold-navigator:toggle"
   },
-  "repository": "https://github.com/turigeza/fold-navigator",
+  "repository": "git@github.com:turigeza/fold-navigator.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.7.0"
