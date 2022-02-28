@@ -1,4 +1,4 @@
-## 0.0.1 - https://github.com/turigeza/fold-navigator/pull/17 and added more observers 
+## 0.6.0 - https://github.com/turigeza/fold-navigator/pull/17 and added more observers 
 ## 0.0.619 - Issue number 12 solved by adding option to use previous line
 ## 0.0.618 - Bug with scrollIntoView solved (hopefully)
 ## 0.0.615 - Added more commands and options
